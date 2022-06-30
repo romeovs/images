@@ -4,5 +4,8 @@
 	"description": "A quick and dirty image transformer for static site generators",
 	"main": "index.js",
 	"license": "MIT",
-	"author": "Romeo Van Snick <romeovs@gmail.com>"
+	"author": "Romeo Van Snick <romeovs@gmail.com>",
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	}
 }
