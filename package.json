@@ -1,0 +1,8 @@
+{
+	"name": "@romeovs/images",
+	"version": "0.0.1",
+	"description": "A quick and dirty image transformer for static site generators",
+	"main": "index.js",
+	"license": "MIT",
+	"author": "Romeo Van Snick <romeovs@gmail.com>"
+}
